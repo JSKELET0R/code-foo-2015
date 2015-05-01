@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700&subset=latin,cyrillic,latin-ext,vietnamese,greek,greek-ext,cyrillic-ext);
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300&subset=cyrillic-ext,latin,greek-ext,greek,vietnamese,latin-ext,cyrillic);
+
+.article_content {
+  width: 500px;
+  height: 0 auto;
+  margin: 0 auto;
+  background: #000;
+  margin-bottom: 10px;
+}
+
+.article_header {
+  display: block;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  padding: 20px 0px 20px 10px;
+  font-size: 40px;
+  line-height: 1.2em;
+  font-family: "Roboto Slab";
+  font-weight: bold;
+}
+
+.article_switch {
+  display: block;
+  background: #fff;
+  color: rgba(0, 0, 0, .65);
+  text-decoration: none;
+  padding: 25px;
+  font-size: 20px;
+  line-height: 1.2em;
+  font-family: "Roboto Slab";
+  font-weight: normal;
+  border-radius: 10px 10px 0 0;
+}
+
+.article_box {
+  width: 425px;
+  margin: 0 auto;
+  margin-bottom: 2px;
+}
+
+.article_box_header_link {
+  display: block;
+  background: #fff;
+  color: rgba(0, 0, 0, .65);
+  text-decoration: none;
+  padding: 25px;
+  font-size: 20px;
+  line-height: 1.2em;
+  font-family: "Roboto Slab";
+  font-weight: normal;
+  position: relative;
+}
+
+.article_more {
+  display: block;
+  background: #fff;
+  color: rgba(0, 0, 0, .65);
+  text-decoration: none;
+  padding: 25px;
+  font-size: 20px;
+  line-height: 1.2em;
+  font-family: "Roboto Slab";
+  font-weight: normal;
+  border-radius: 0 0 10px 10px;
+}
